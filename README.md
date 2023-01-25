@@ -19,4 +19,4 @@ To run this application, you need Python and pip installed.
  Then go to localhost:8000
 
 
- ![UI Screen Shot](/openssl_simple_gui_django/static/ss.jpeg?raw=true "UI Screen Shot")
+ ![UI Screen Shot](static/ss.jpeg?raw=true "UI Screen Shot")
