@@ -18,4 +18,5 @@ To run this application, you need Python and pip installed.
 <br>
 <h4>UI Screen Shot</h4>
 <br>
- ![UI Screen Shot](static/ss.jpeg?raw=true "UI Screen Shot")
+<img src="static/ss.jpeg" alt="UI Screen Shot">
+
