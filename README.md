@@ -1,6 +1,6 @@
 # A Simple Grapgical User Interface for OpenSSL Using Python and Django
 A simple and basic web based front end for OpenSSL created with Django. It is way to generate SSL certificates quickly for personal usage.
-<br>
+<br><br><br>
 To run this application, you need Python and pip installed.
 <br>
 Some packages are required for this application.<br>
