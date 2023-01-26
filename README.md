@@ -18,4 +18,4 @@ Then go to http://localhost:8000
 <br>
 <h4>UI Screen Shot</h4>
 <br>
-![UI Screen Shot](static/ss.jpeg?raw=true "UI Screen Shot")
+ ![UI Screen Shot](static/ss.jpeg?raw=true "UI Screen Shot")
